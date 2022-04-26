@@ -1,0 +1,18 @@
+[
+	{
+		"stats": "Entregada",
+		"statsColor": "#35CF00"
+	},
+	{
+		"stats": "No entregada",
+		"statsColor": "red" 
+	},
+	{
+		"stats": "En el origen",
+		"statsColor": "skyblue"
+	},
+	{
+		"stats": "En camino",
+		"statsColor": "orange"
+	}
+]	
